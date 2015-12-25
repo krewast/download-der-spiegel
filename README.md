@@ -15,13 +15,13 @@ Die Nutzung ist unkompliziert und funktioniert nach folgendem Schema:
 
 ###cURL
 
-Für die Downloads ruft das Skript cURL auf, das sich oft schon vorinstalliert ist. Wenn nicht:
+Für die Downloads ruft das Skript [cURL](http://curl.haxx.se/) auf, das oft schon vorinstalliert ist. Falls nicht:
 
     # Unter Debian/Ubuntu
     apt-get update
     apt-get install curl
 
-oder über die offizielle [Installationsdoku](http://curl.haxx.se/docs/install.html)
+oder über die offizielle [Installationsdoku](http://curl.haxx.se/docs/install.html).
 
 ###Nokogiri
 
